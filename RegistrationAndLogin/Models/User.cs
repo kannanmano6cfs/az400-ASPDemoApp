@@ -6,7 +6,7 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+// changes made by user 1 in vs code
 namespace RegistrationAndLogin.Models
 {
     using System;
